@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <circle cx="50" cy="50" r="48" fill="#8B5CF6" opacity="0.1" stroke="#8B5CF6" stroke-width="2"/>
+  <g fill="#8B5CF6">
+    <!-- Chart Lines -->
+    <path d="M25 70h50" stroke="#8B5CF6" stroke-width="2"/>
+    <path d="M25 30v40" stroke="#8B5CF6" stroke-width="2"/>
+    
+    <!-- Leverage Visualization -->
+    <rect x="30" y="50" width="10" height="20" fill="#8B5CF6" opacity="0.5"/>
+    <rect x="45" y="40" width="10" height="30" fill="#8B5CF6" opacity="0.7"/>
+    <rect x="60" y="30" width="10" height="40" fill="#8B5CF6" opacity="0.9"/>
+    
+    <!-- 5x Symbol -->
+    <path d="M55 25l-5-10h10z" fill="#8B5CF6"/>
+    <circle cx="55" cy="20" r="5" stroke="#8B5CF6" stroke-width="2" fill="none"/>
+    
+    <!-- Dollar Symbols -->
+    <path d="M32 45c2-1 4-1 4-3s-2-3-4-2v-2h-2v2c-2 1-3 3-2 5s3 2 4 2v3h-2v-2h-3v3c2 1 5 1 5-1v-3c-2-1-5-1-4-3 0-1 2-1 2-1v2h2z" fill="#8B5CF6"/>
+    <path d="M47 35c2-1 4-1 4-3s-2-3-4-2v-2h-2v2c-2 1-3 3-2 5s3 2 4 2v3h-2v-2h-3v3c2 1 5 1 5-1v-3c-2-1-5-1-4-3 0-1 2-1 2-1v2h2z" fill="#8B5CF6"/>
+    <path d="M62 25c2-1 4-1 4-3s-2-3-4-2v-2h-2v2c-2 1-3 3-2 5s3 2 4 2v3h-2v-2h-3v3c2 1 5 1 5-1v-3c-2-1-5-1-4-3 0-1 2-1 2-1v2h2z" fill="#8B5CF6"/>
+  </g>
+</svg>
